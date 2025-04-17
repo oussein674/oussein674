@@ -22,7 +22,7 @@ Ces projets me permettent de transformer des données brutes en **insights visue
 - 🔹 **Tableau de bord financier – Finexa Corp** 
 ---
 
-🎓 Je suis toujours curieux(se) d’en apprendre plus et d’échanger autour de la data.  
+🎓 Je suis toujours curieux d’en apprendre plus et d’échanger autour de la data.  
 📫 N’hésitez pas à me contacter pour collaborer, discuter ou tout simplement partager !
 
 > *« La donnée n’est utile que si elle raconte une histoire. »*
