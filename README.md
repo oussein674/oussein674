@@ -1,6 +1,6 @@
-# Salut 👋, moi c’est [OUSSEIN IBRAHIM] !
+# Salut 👋, moi c’est OUSSEIN IBRAHIM 
 
-🎯 Data Analyst passionné(e) par la visualisation de données, l’exploration d’indicateurs clés, et la résolution de problèmes métier à travers la data.
+🎯 Data Analyst passionnée par la visualisation de données, l’exploration d’indicateurs clés, et la résolution de problèmes métier à travers la data.
 
 💡 J’ai développé plusieurs projets pratiques dans des domaines variés (RH, ventes, finance, e-commerce), en utilisant des outils comme **Power BI**, **Excel** et **SQL**.  
 Ces projets me permettent de transformer des données brutes en **insights visuels** et **décisions stratégiques**.
